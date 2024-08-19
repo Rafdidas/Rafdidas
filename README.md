@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Park HyeonGyu.
+I'm currently a web publisher, and I'm studying for a front-end developer 😎
+
 <!--
 **Rafdidas/Rafdidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
