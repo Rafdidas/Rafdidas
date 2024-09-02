@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Park HyeonGyu.
-I'm currently a web publisher, and I'm studying for a front-end developer 😎<br/>
-저는 박현규라고 합니다. 저는 현재 웹 퍼블리셔이고, 프론트엔드 개발자를 위해 공부하고 있습니다😎
+### I'm Park HyeonGyu.
+#### I'm currently a web publisher, and I'm studying for a front-end developer 😎<br/>
+#### 저는 박현규라고 합니다. 저는 현재 웹 퍼블리셔이고, 프론트엔드 개발자를 위해 공부하고 있습니다😎
 
 ### ⚡ My Skill Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
