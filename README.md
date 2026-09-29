@@ -16,6 +16,7 @@
 | **poke_dex_next** | Next.js 15 App Router 포켓몬 도감. 한글 IME 검색, 다중 타입 필터, URL 상태 유지 | [Demo](https://poke-dex-next.vercel.app/) · [Repo](https://github.com/Rafdidas/poke_dex_next) |
 | **tmdb-ai-reco** | AI 취향 분석을 JSON Schema로 고정하고 TMDB 데이터로 재검증하는 영화 추천 | [Demo](https://tmdb-ai-reco.vercel.app/) · [Repo](https://github.com/Rafdidas/tmdb-ai-reco) |
 | **fe-daily-study** | Frount-End 개발 공부를 데일리로 ai 와 함께 학 | [Demo](https://devstudy-vert.vercel.app/) · [Repo](https://github.com/Rafdidas/dev_study) |
+| **race-note** | 한국 팬을 위한 F1 시즌 정보 허브입니다.  | [Demo](race-note.rafdi.workers.dev/) · [Repo](https://github.com/Rafdidas/race-note) |
 
 ### ⚡ Skills
 
